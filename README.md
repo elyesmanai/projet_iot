@@ -1,4 +1,4 @@
-ce travaille est une étude approfondie sur l’utilisation des techniques d’apprentissage automatiques pour détecter les intrusions dans les réseaux de l’Internet des Objets
+Ce travaille est une étude approfondie sur l’utilisation des techniques d’apprentissage automatiques pour détecter les intrusions dans les réseaux de l’Internet des Objets
 (IoT). Avec l’augmentation exponentielle du nombre de dispositifs IoT en service, la sécurité de ces réseaux est devenue une préoccupation majeure. Notre recherche se concentre
 sur l’implémentation et l’évaluation de plusieurs algorithmes d’apprentissage supervisés et non supervisés, y compris les K-Plus Proches Voisins (KNN), les K-moyens (KMeans), et les
 autoencodeurs pour la détection d’anomalies. Nous avons utilisé les deux jeux de données Edge-IIoTset et TON-IoT pour tester ces algorithmes.
@@ -12,3 +12,4 @@ Cette recherche contribue à la littérature existante en confirmant l’efficac
 IoT et suggère des directions pour de futures études, notamment l’intégration de l’intelligence artificielle plus avancée pour développer des systèmes de détection d’intrusions plus
 dynamiques et adaptatifs. La finalité étant de renforcer la résilience des infrastructures IoT face à une panoplie d’attaques cybernétiques de plus en plus sophistiquées.
 
+Voire le pdf Projet_Sécurité_IoT
